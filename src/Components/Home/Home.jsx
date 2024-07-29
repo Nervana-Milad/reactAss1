@@ -5,7 +5,7 @@ function Home() {
         <div className="container p-10">
           <div className="flex justify-center pb-5">
             <img
-              src="../src/assets/avataaars.svg"
+              src="./src/assets/avataaars.svg"
               alt="profile photo"
               className="w-[250px]"
             />
