@@ -1,0 +1,21 @@
+/* .menu {
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+  overflow: hidden;
+}
+
+.menu-open {
+  max-height: 500px;
+  opacity: 1;
+}
+
+.menu-closed {
+  max-height: 0;
+  opacity: 0;
+}
+
+@media (min-width: 768px) {
+  .menu {
+    max-height: none;
+    opacity: 1;
+  }
+} */
